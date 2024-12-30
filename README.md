@@ -1,5 +1,7 @@
-<div align="center" style="background: linear-gradient(135deg, #1E90FF, #87CEEB); padding: 20px; border-radius: 15px; color: white;">
+<div align="center">
   # Hi, I'm Ernestas 👋
+  
+<div align="center" style="background: linear-gradient(135deg, #1E90FF, #87CEEB); padding: 20px; border-radius: 15px; color: white;">
   <h2>Welcome to my GitHub! ⛄</h2>
   <p>Here you'll find my projects, developments, and creative ideas.</p>
 </div>
