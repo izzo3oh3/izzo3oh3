@@ -34,16 +34,6 @@
 
 ---
 
-## ❄️ Featured Projects
-
-### 🛠️ [Project 1](#)
-**Description:** A useful tool for Minecraft modding.
-
-### 🌐 [Project 2](#)
-**Description:** A web app that simplifies workflow for developers.
-
----
-
 ## 🤝 Open to Collaboration
 
 If you have interesting ideas or projects, feel free to reach out! Always open to collaboration.
