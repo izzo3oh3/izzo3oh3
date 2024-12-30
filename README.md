@@ -20,7 +20,7 @@
 
 ## 📊 Profile Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izzo3oh3&show_icons=true&theme=merko)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izzo3oh3&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izzo3oh3&layout=compact&theme=gruvbox)
 
