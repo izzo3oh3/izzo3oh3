@@ -20,9 +20,9 @@
 
 ## 📊 Profile Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izzo3oh3&show_icons=true&theme=blueberry)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izzo3oh3&show_icons=true&theme=nord)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izzo3oh3&layout=compact&theme=blueberry)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izzo3oh3&layout=compact&theme=tokyonight)
 
 </div>
 
