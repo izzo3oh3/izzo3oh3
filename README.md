@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hi, I'm Ernestas ❄️👋
 
 <div style="background: linear-gradient(135deg, #1E90FF, #87CEEB); padding: 20px; border-radius: 15px; color: white;">
