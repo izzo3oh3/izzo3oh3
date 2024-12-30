@@ -1,29 +1,29 @@
-# Привет, я Эрнест 👋
+# Hi, I'm Ernestas 👋
 
-Добро пожаловать в мой профиль GitHub! Здесь вы найдете мои проекты, разработки и идеи. 
-
----
-
-## ✨ Обо мне
-
-- 🌟 **Кто я:** Разработчик с энтузиазмом к новым технологиям.
-- 💻 **Мои навыки:** 
-  - Java Minecraft mods dev
-- 🌱 **Изучаю:** Java
-- 🎯 **Цели:** Создать полезные проекты для себя и других
-- 📫 **Контакты:** Discord vmp.abuse
+Welcome to my GitHub profile! Here you'll find my projects, developments, and ideas.
 
 ---
 
-## 📊 Статистика профиля
+## ✨ About Me
 
-![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=izzo3oh3&show_icons=true&theme=radical)
-![Языки в репозиториях](https://github-readme-stats.vercel.app/api/top-langs/?username=izzo3oh3&layout=compact&theme=radical)
+- 🌟 **Who I am:** A developer passionate about new technologies.
+- 💻 **My Skills:**
+  - Minecraft mods creator
+- 🌱 **Currently Learning:** Java
+- 🎯 **Goals:** To create useful projects for myself and others
+- 📫 **Contact:** Discord vmp.abuse
 
 ---
 
-## 🤝 Хочу сотрудничать
+## 📊 Profile Stats
 
-Если у вас есть интересные идеи или проекты, пишите мне! Всегда открыт для сотрудничества.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izzo3oh3&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izzo3oh3&layout=compact&theme=radical)
 
-> Сделано с ❤️ [Эрнест](https://github.com/izzo3oh3).
+---
+
+## 🤝 Open to Collaboration
+
+If you have interesting ideas or projects, feel free to reach out! Always open to collaboration.
+
+> Made with ❤️ by [Ernestas](https://github.com/izzo3oh3).
