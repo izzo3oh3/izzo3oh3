@@ -20,11 +20,9 @@
 
 ## 📊 Profile Stats
 
-<div align="center" style="backdrop-filter: blur(10px); background-color: rgba(173, 216, 230, 0.2); padding: 20px; border-radius: 15px; border: 1px solid rgba(255, 0, 0, 0.6);">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izzo3oh3&show_icons=true&theme=blueberry)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izzo3oh3&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izzo3oh3&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izzo3oh3&layout=compact&theme=blueberry)
 
 </div>
 
