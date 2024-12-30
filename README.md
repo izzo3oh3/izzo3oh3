@@ -17,8 +17,13 @@ Welcome to my GitHub profile! Here you'll find my projects, developments, and id
 
 ## 📊 Profile Stats
 
+<div align="center" style="backdrop-filter: blur(10px); background-color: rgba(255, 255, 255, 0.1); padding: 10px; border-radius: 10px;">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izzo3oh3&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izzo3oh3&layout=compact&theme=radical)
+
+</div>
 
 ---
 
