@@ -17,7 +17,7 @@ Welcome to my GitHub profile! Here you'll find my projects, developments, and id
 
 ## 📊 Profile Stats
 
-<div align="center" style="backdrop-filter: blur(10px); background-color: rgba(255, 255, 255, 0.1); padding: 10px; border-radius: 10px;">
+<div align="center" style="backdrop-filter: blur(10px); background-color: rgba(0, 102, 204, 0.2); padding: 20px; border-radius: 15px; border: 1px solid rgba(255, 255, 255, 0.6);">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izzo3oh3&show_icons=true&theme=radical)
 
