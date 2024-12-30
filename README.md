@@ -1,6 +1,9 @@
-# Hi, I'm Ernestas 👋
+# Hi, I'm Ernestas ❄️👋
 
-Welcome to my GitHub profile! Here you'll find my projects, developments, and ideas.
+<div align="center" style="background: linear-gradient(135deg, #1E90FF, #87CEEB); padding: 20px; border-radius: 15px; color: white;">
+  <h2>Welcome to my Winter Wonderland GitHub! ⛄</h2>
+  <p>Here you'll find my projects, developments, and creative ideas.</p>
+</div>
 
 ---
 
@@ -17,7 +20,7 @@ Welcome to my GitHub profile! Here you'll find my projects, developments, and id
 
 ## 📊 Profile Stats
 
-<div align="center" style="backdrop-filter: blur(10px); background-color: rgba(0, 102, 204, 0.2); padding: 20px; border-radius: 15px; border: 1px solid rgba(255, 255, 255, 0.6);">
+<div align="center" style="backdrop-filter: blur(10px); background-color: rgba(173, 216, 230, 0.2); padding: 20px; border-radius: 15px; border: 1px solid rgba(255, 255, 255, 0.6);">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izzo3oh3&show_icons=true&theme=radical)
 
@@ -27,8 +30,20 @@ Welcome to my GitHub profile! Here you'll find my projects, developments, and id
 
 ---
 
+## ❄️ Featured Projects
+
+### 🛠️ [Project 1](#)
+**Description:** A useful tool for Minecraft modding.
+
+### 🌐 [Project 2](#)
+**Description:** A web app that simplifies workflow for developers.
+
+---
+
 ## 🤝 Open to Collaboration
 
 If you have interesting ideas or projects, feel free to reach out! Always open to collaboration.
 
-> Made with ❤️ by [Ernestas](https://github.com/izzo3oh3).
+<div align="center">
+  <p><i>Made with ❤️ by</i> <a href="https://github.com/izzo3oh3" style="color: #1E90FF;">Ernestas</a></p>
+</div>
