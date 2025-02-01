@@ -15,18 +15,8 @@
 ### 📊 My Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=XenonAsmov&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XenonAsmov&layout=compact&theme=radical&langs_count=8&hide_border=true&hide=html,css,makefile" alt="Top Languages" />
 </div>
-
----
-
-### 🚀 Latest Projects
-- ⚡ Custom Minecraft GUI system with smooth animations
-- 🎨 Shaders with rounded rectangles and gradient effects
-- 🎵 In-game music playback UI with Spotify integration
-- 🛠 Optimized module system for a Minecraft client mod
 
 ---
 
