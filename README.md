@@ -10,10 +10,8 @@
 
 ---
 
-### 📊 My Stats
-
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzo3oh3&layout=compact&hide_border=true&hide=html,css,makefile&bg_color=292929&title_color=bbbbbb&text_color=dddddd&icon_color=aaaaaa" alt="Top Languages" />
+    <img src="https://cdn.discordapp.com/attachments/1322973293212602451/1335331079602573404/98286a2243ada070aef5a6925dd3bc54.gif?ex=679fc77a&is=679e75fa&hm=0bec052cbe5e52cd43a359bfcbdbd99bc26470efb34a48efa99115eaa97ed692&" alt="Cool GIF" />
 </div>
 
 ---
