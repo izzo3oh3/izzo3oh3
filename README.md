@@ -8,7 +8,6 @@
 - 🔭 Currently improving my programming skills and working on cool projects
 - 🌱 Learning **Java, C++**
 - 🕶 Experienced with **OpenGL, Forge API, Minecraft API**
-- 📫 Reach me on **Discord: vmp.abuse**
 
 ---
 
