@@ -5,9 +5,11 @@
 
 ### ✨ About Me
 
-- 🔭 Currently improving my programming skills and working on cool projects
-- 🌱 Learning **Java, C++**
-- 🕶 Experienced with **OpenGL, Forge API, Minecraft API**
+- 💻 Passionate about game development, graphics programming, and modding  
+- 🔭 Currently honing my skills and working on exciting projects  
+- 🌱 Exploring **Java** & **C++**, diving deeper into graphics and optimization  
+- 🕶 Experienced with **OpenGL, Forge API, Minecraft Modding**  
+- 🎨 Love creating custom UI elements, shaders, and smooth animations  
 
 ---
 
@@ -26,5 +28,5 @@
 ---
 
 ### 📌 Where to Find Me
-- 🔗 **GitHub**: [izzo3oh3](https://github.com/izzo3oh3)
-- 🎮 **Discord**: vmp.abuse
+- 🔗 **GitHub**: [izzo3oh3](https://github.com/izzo3oh3)  
+- 🎮 **Discord**: vmp.abuse  
