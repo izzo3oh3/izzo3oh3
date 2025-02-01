@@ -26,5 +26,5 @@
 ---
 
 <div align="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fabs-workout--363736107421127591%2F&psig=AOvVaw2ZxJOoWDftSM0Bdm1DMs8q&ust=1738524421382000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDzmKmao4sDFQAAAAAdAAAAABAE" alt="Gif" />
+    <img src="https://cdn.discordapp.com/attachments/1322973293212602451/1335331079602573404/98286a2243ada070aef5a6925dd3bc54.gif?ex=679fc77a&is=679e75fa&hm=0bec052cbe5e52cd43a359bfcbdbd99bc26470efb34a48efa99115eaa97ed692&" alt="Gif" />
 </div>
