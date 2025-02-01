@@ -13,7 +13,7 @@
 ### 📊 My Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzo3oh3&layout=compact&hide_border=true&hide=html,css,makefile&bg_color=5900fc&title_color=8a2be2&text_color=9573d3&icon_color=9573d3" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzo3oh3&layout=compact&hide_border=true&hide=html,css,makefile&bg_color=09023b&title_color=8a2be2&text_color=9573d3&icon_color=9573d3" alt="Top Languages" />
 </div>
 
 ---
