@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm izzoAsmov! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hey there, I'm izzo3oh3! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Passionate Developer | OpenGL Enthusiast | Minecraft Modder</h3>
 
 ---
@@ -37,5 +37,5 @@
 ---
 
 ### 📌 Where to Find Me
-- 🔗 **GitHub**: [izzoAsmov](https://github.com/XenonAsmov)
+- 🔗 **GitHub**: [izzo3oh3](https://github.com/izzo3oh3)
 - 🎮 **Discord**: vmp.abuse
