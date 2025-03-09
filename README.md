@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1322973293212602451/1335331079602573404/98286a2243ada070aef5a6925dd3bc54.gif?ex=679fc77a&is=679e75fa&hm=0bec052cbe5e52cd43a359bfcbdbd99bc26470efb34a48efa99115eaa97ed692&" alt="Cool GIF" />
+    <img src="https://i.pinimg.com/originals/98/28/6a/98286a2243ada070aef5a6925dd3bc54.gif" alt="Cool GIF" />
 </div>
 
 ---
